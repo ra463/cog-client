@@ -1,4 +1,5 @@
 
+
 import Card from './Card'
 
 import { GrNext } from "react-icons/gr";
@@ -24,7 +25,8 @@ function CardsSection() {
     {/* <button className="font-semibold btn-view text-white flex place-items-center gap-3">View All Assessments<FaArrowRight className=' size-10'></FaArrowRight></button> */}
     </div>
    </div>
-  )
+)
 }
+
 
 export default CardsSection
